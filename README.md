@@ -2,7 +2,7 @@
 
 A Docker Image based on [mhart/alpine-node](https://hub.docker.com/r/mhart/alpine-node/) - with **Node V4.2.6** - this is just for the convenience of not having to install the buildtools on every Sub-Image-Build
 
-## UNLICENSE ( this is only valid for the Dockerfile itself - any software in the Dockerfile itself has its own licensing! )
+## UNLICENSE ( this is only valid for the Dockerfile itself - any software in the Docker Image itself has its own licensing! )
 
 ```
 This is free and unencumbered software released into the public domain.
